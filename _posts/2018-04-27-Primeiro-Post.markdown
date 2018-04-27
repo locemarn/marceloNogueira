@@ -3,7 +3,7 @@ layout: post
 title: Primeiro Post
 date: 2018-04-26 10:30:00 +0300
 description: Post explicando o motivo principal do blog e os assuntos que serão abordados nos próximos post.
-img: https://static.noticiasaominuto.com/stockimages/1920/naom_5593a5ff920e3.jpg?1435739802
+img: PrimeiroPost.jpg
 tags: [Primeiro, Post]
 ---
 Post explicando o motivo principal do blog e os assuntos que serão abordados nos próximos post.
@@ -15,7 +15,6 @@ Fala galera, tudo na paz??
 A partir de hoje, começo a expor algumas idéias e experimentos da área de T.I, vividos e passados por mim, aqui nesse blog. Espero manter uma rotina de escrita e participação nos comentários (se tiver algum).
 
 Ainda estou 'aprendendo' algumas coisas, então também espero que tenham um pouco de paciência comigo e conto com a colaboração para melhorar a qualidade dos artigos.
-
 
 ![Mesa com café com escrita blog](https://mvpcomunicacao.com.br/wp-content/uploads/2017/10/blog-460x277.jpg)
 
